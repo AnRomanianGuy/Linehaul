@@ -1,0 +1,185 @@
+{
+  "id": "luxembourg",
+  "name": "Luxembourg",
+  "geofabrikPath": "europe/luxembourg",
+  "difficulty": "easy",
+  "difficultyReason": "A compact 2,586 km² and a premium local economy (3.6x the curated baseline) — short local hops and a straightforward network to run.",
+  "bounds": [
+    5.7372481,
+    49.445481900000004,
+    6.531604100000001,
+    50.184350200000004
+  ],
+  "stats": {
+    "areaKm2": 2586,
+    "roadNodeCount": 122197,
+    "roadEdgeCount": 114682,
+    "roadDensity": 44.34725444702243,
+    "majorCityCount": 16,
+    "railNodeCount": 22822,
+    "railEdgeCount": 23342
+  },
+  "economy": {
+    "currencyCode": "EUR",
+    "startingMoney": 67939,
+    "vehiclePurchaseCost": 9000,
+    "vehicleRentalUpfront": 800,
+    "vehicleRentalPerDay": 60,
+    "cargoVanCapacity": 3,
+    "cargoVanPurchaseCost": 16200,
+    "cargoVanRentalUpfront": 1440,
+    "cargoVanRentalPerDay": 108,
+    "truckCapacity": 10,
+    "truckPurchaseCost": 29160,
+    "truckRentalUpfront": 2592,
+    "truckRentalPerDay": 194,
+    "driverHireCost": 300,
+    "driverWagePerDay": 120,
+    "managerHireCost": 1500,
+    "managerWagePerDay": 200,
+    "depotCost": 4000,
+    "transitHubCost": 88764,
+    "internationalHubCost": 221911,
+    "railTerminalCost": 221911,
+    "internationalRailTerminalCost": 554778,
+    "trainPurchaseCost": 60000,
+    "airportCost": 554778,
+    "internationalAirportCost": 1386945,
+    "planePurchaseCost": 150000,
+    "payoutBaseAmount": 284,
+    "payoutPerKm": 18,
+    "operatingLicenseFee": 42607,
+    "operatingLicenseRequirement": 106517,
+    "expansionLicenseFee": 71012,
+    "expansionLicenseRequirement": 177529,
+    "exportChinaLicenseFee": 31955,
+    "exportChinaLicenseRequirement": 71012,
+    "exportSouthKoreaLicenseFee": 124270,
+    "exportSouthKoreaLicenseRequirement": 319552,
+    "exportWorldLicenseFee": 124270,
+    "exportWorldLicenseRequirement": 319552
+  },
+  "wealthFactor": 3.5505782057390576,
+  "borderLinks": [
+    {
+      "nodeId": 4411,
+      "neighborRegionId": "france",
+      "neighborNodeId": 26074,
+      "distanceMeters": 171.95633846635863
+    },
+    {
+      "nodeId": 605,
+      "neighborRegionId": "france",
+      "neighborNodeId": 43242,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 606,
+      "neighborRegionId": "france",
+      "neighborNodeId": 43243,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 1831,
+      "neighborRegionId": "france",
+      "neighborNodeId": 100579,
+      "distanceMeters": 118.27937592308822
+    },
+    {
+      "nodeId": 1831,
+      "neighborRegionId": "france",
+      "neighborNodeId": 113411,
+      "distanceMeters": 125.36936731990552
+    },
+    {
+      "nodeId": 1831,
+      "neighborRegionId": "france",
+      "neighborNodeId": 274861,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 3161,
+      "neighborRegionId": "france",
+      "neighborNodeId": 302406,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 3162,
+      "neighborRegionId": "france",
+      "neighborNodeId": 302407,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 4474,
+      "neighborRegionId": "france",
+      "neighborNodeId": 302412,
+      "distanceMeters": 120.32050389325683
+    },
+    {
+      "nodeId": 4474,
+      "neighborRegionId": "france",
+      "neighborNodeId": 354499,
+      "distanceMeters": 118.27120749467679
+    },
+    {
+      "nodeId": 3645,
+      "neighborRegionId": "france",
+      "neighborNodeId": 416914,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 1831,
+      "neighborRegionId": "france",
+      "neighborNodeId": 485413,
+      "distanceMeters": 13.125953374104602
+    },
+    {
+      "nodeId": 4282,
+      "neighborRegionId": "france",
+      "neighborNodeId": 491977,
+      "distanceMeters": 78.84170905779693
+    },
+    {
+      "nodeId": 4265,
+      "neighborRegionId": "france",
+      "neighborNodeId": 491978,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 3836,
+      "neighborRegionId": "france",
+      "neighborNodeId": 499551,
+      "distanceMeters": 210.3601075775904
+    },
+    {
+      "nodeId": 3836,
+      "neighborRegionId": "france",
+      "neighborNodeId": 499552,
+      "distanceMeters": 211.53178629968517
+    },
+    {
+      "nodeId": 4315,
+      "neighborRegionId": "france",
+      "neighborNodeId": 501850,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 4316,
+      "neighborRegionId": "france",
+      "neighborNodeId": 501851,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 4282,
+      "neighborRegionId": "france",
+      "neighborNodeId": 501852,
+      "distanceMeters": 0
+    },
+    {
+      "nodeId": 1934,
+      "neighborRegionId": "france",
+      "neighborNodeId": 551536,
+      "distanceMeters": 281.7362082037596
+    }
+  ]
+}
