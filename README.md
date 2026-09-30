@@ -4,11 +4,11 @@ Linehaul is a courier company sim. You start with one van and a home country, an
 
 The map is real. Roads, water, rail lines, and place names come from OpenStreetMap, clipped and simplified per country ahead of time. Where you place a hub, how far a van can reach before you need a truck relay, what a delivery pays: all of that is grounded in the country's real land area and economy, not a flat number picked to feel right.
 
-What's live on GitHub Pages right now is this build: Luxembourg only, everything else stripped out so it's small enough to run from a web page. It's a demo, not a release, and it'll get swapped out for a newer one as the game moves forward. The list below is the full plan for the game, checked off against what this specific build actually has working.
+What's live on GitHub Pages right now is this build: Luxembourg and Belgium, everything else stripped out so it's small enough to run from a web page. It's a demo, not a release, and it'll get swapped out for a newer one as the game moves forward. The list below is the full plan for the game, checked off against what this specific build actually has working.
 
 ## Playing it
 
-Zoom into the highlighted country on the world map and click "Fly in to start." Click anywhere on the road network to place your HQ. From there:
+Zoom into one of the highlighted countries on the world map and click "Fly in to start." Click anywhere on the road network to place your HQ. From there:
 
 - Open Jobs to see what's on the board and accept what your fleet can carry.
 - Open Fleet to buy a van and Staff to hire a driver for it, or nothing moves.
@@ -27,7 +27,7 @@ Zoom into the highlighted country on the world map and click "Fly in to start." 
 - [x] Relay hand-offs, so a package can cross a country on more than one vehicle
 - [x] Multi-stop pickups, so one vehicle can carry several jobs from the same depot
 - [x] Save/load to a local file, no account or server involved
-- [ ] More countries than Luxembourg (the full game already has several built; this build only ships one)
+- [ ] More countries than these two (the full game already has several more built; this build only ships a small set)
 - [ ] International deliveries relayed across a real mapped border between two countries
 - [ ] An installer with per-country downloads, instead of one web build carrying every country's data
 - [ ] Multiplayer: companies sharing a country's network and competing for the same jobs
